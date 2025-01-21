@@ -22,11 +22,7 @@ tl.from('.heroImage',{
     delay:0.2,
 })
 
-tl.from('.mechanical',{
-    y:-5000,
-    duration: 0.3,
-    delay:0.2,
-})
+
 
 tl.from('.feature',{
     x:-5000,
