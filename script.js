@@ -12,7 +12,7 @@ gsap.from('header button',{
 var tl=gsap.timeline()
 tl.from('.herotext',{
     x:-900,
-    duration: 0.5,
+    duration: 0.4,
     delay:0.2,
 })
 
